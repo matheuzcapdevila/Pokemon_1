@@ -84,11 +84,12 @@ main .cartao-pokemon .informacoes span{
     text-transform: uppercase;
     font-size: 17px;
 }
-
+/*
 main .cartao-pokemon .gif{
     width: 90px;
     height: 90px;
 }
+*/
 
 main .cartao-pokemon .tipos{
     display: flex;
